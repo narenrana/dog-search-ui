@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard test Dashboard should match snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <div
+    className="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    />
+  </div>
+</div>
+`;
